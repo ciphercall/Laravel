@@ -1,0 +1,12 @@
+### Laravel ###
+/vendor/
+/.idea
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+/public
+*.png
+_ide_*
+.idea/php.xml
+code-generator.json
